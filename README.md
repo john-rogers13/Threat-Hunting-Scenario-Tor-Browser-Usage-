@@ -116,6 +116,6 @@ The use of Tor within an enterprise network can pose security risks, including b
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `ehreat-hunt-lab` by the user `jtex`. The device was isolated, and the user's direct manager was notified.
 
 ---
